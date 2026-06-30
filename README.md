@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=R3zio&textBg=false&section=header&reversal=false" />
     
 <p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;I+am+R3zio+⚡;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Vichhean+Sombath;Software+Developer.;Bachelor+Computer+Science+and+Engineering.;"
         alt="Typing SVG" />
 </p>
 
@@ -15,23 +15,18 @@
 </p>
 
 ## 📌 About Me
-I am **Sombath**, also known as **R3zio**, a third-year Computer Science and Engineering student from **Cambodia**. I began my journey in IT at the end of 2024, with a strong focus on **Web Development**.
-- 💻 **In Progress**: I am currently working on developing my skills and building projects in web development.
-- 🌱 **Self Development**: I am always willing to learn from others to improve myself.
-- 🤝 **Communication Skills**: I have completed many team projects within my community.
-- 🧠 **Mindset**: I would rather try than regret missing opportunities.
-- 📌 **Future Plan**: My goal is to build a community that supports the future of Cambodian technology.
+I am Sombath (R3zio), a Computer Science and Engineering student at ACLEDA University of Business, also enrolled in the Department of English at the Institute of Foreign Languages (RUPP). I lead a web development internship team at ACLEDA, working with ASP.NET MVC, and I am passionate about software development with a focus on Flutter mobile development.
 <br>
 
 ## 🛠️ Tech Stack & Tools
 <table>
     <tr>
         <td valign="top" width="33%">
-            <strong>Frontend</strong><br />
+            <strong>Frontend / Mobile</strong><br />
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
             <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
         </td>
         <td valign="top" width="33%">
             <strong>Backend</strong><br />
@@ -41,13 +36,10 @@ I am **Sombath**, also known as **R3zio**, a third-year Computer Science and Eng
         </td>
         <td valign="top" width="33%">
             <strong>Database / Other</strong><br />
+            <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=white" />
+            <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=mssqlserver&logoColor=white" />
-            <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
-            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-            <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" >
-            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" >
         </td>
     </tr>
 </table>
@@ -66,10 +58,8 @@ I am **Sombath**, also known as **R3zio**, a third-year Computer Science and Eng
 <p align="left">
     <a href="https://www.facebook.com/v.bathhh"><img
             src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-    <a href="mailto:YOUR_REAL_EMAIL@gmail.com"><img
+    <a href="vichheansombath@gmail.com"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.tiktok.com/@reziooo23?_r=1&_t=ZS-95Bsuz7gpa4"><img
-            src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-    <a href="https://www.threads.com/@rezio_23?igshid=NTc4MTIwNjQ2YQ=="><img
+    <a href="https://www.threads.com/@r3zioo?igshid=NTc4MTIwNjQ2YQ=="><img
             src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
 </p>
