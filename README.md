@@ -14,11 +14,12 @@
     </a>
 </p>
 
-## 📌 About Me
+## About Me
 I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACLEDA University of Business, also enrolled in the **Department of English** at the Institute of Foreign Languages (RUPP). I lead a Web Development internship team at ACLEDA, working with ASP.NET MVC, and I am passionate about **Software Development** with a focus on Flutter mobile development.
 <br>
 
-## 🛠️ Tech Stack & Tools
+
+## Tech Stack & Tools
 <table>
     <tr>
         <td valign="top" width="33%">
@@ -45,7 +46,7 @@ I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACL
 </table>
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <p align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezio23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
         height="170" />
@@ -54,7 +55,7 @@ I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACL
 </p>
 <br>
 
-## 🤝 Connect with me
+## Connect with me
 <p align="left">
     <a href="https://www.facebook.com/v.bathhh"><img
             src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
