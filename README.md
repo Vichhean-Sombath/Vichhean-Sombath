@@ -1,6 +1,6 @@
 
 <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=R3zio&textBg=false&section=header&reversal=false" />
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SOMBATH&textBg=false&section=header&reversal=false" />
     
 <p align="center" margin="0">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Itim&size=40&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Vichhean+Sombath;Software+Engineer;Computer+Science;"
@@ -15,7 +15,7 @@
 </p>
 
 ## 📌 About Me
-I am **Vichhean Sombath (R3zio)**, a **Computer Science and Engineering** student at ACLEDA University of Business, also enrolled in the **Department of English** at the Institute of Foreign Languages (RUPP). I lead a Web Development internship team at ACLEDA, working with ASP.NET MVC, and I am passionate about **Software Development** with a focus on Flutter mobile development.
+I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACLEDA University of Business, also enrolled in the **Department of English** at the Institute of Foreign Languages (RUPP). I lead a Web Development internship team at ACLEDA, working with ASP.NET MVC, and I am passionate about **Software Development** with a focus on Flutter mobile development.
 <br>
 
 ## 🛠️ Tech Stack & Tools
