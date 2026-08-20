@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SOMBATH&textBg=false&section=header&reversal=false" />
     
 <p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Itim&size=40&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Vichhean+Sombath;Software+Engineer;Computer+Science;"
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Itim&size=40&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Vichhean+Sombath;Computer+Science;"
         alt="Typing SVG" />
 </p>
 
@@ -48,9 +48,9 @@ I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACL
 
 ## GitHub Analytics
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezio23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vichhean-Sombath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
         height="170" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezio23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vichhean-Sombath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
         height="170" />
 </p>
 <br>
