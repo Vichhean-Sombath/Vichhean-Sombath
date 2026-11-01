@@ -1,66 +1,48 @@
-
-<img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SOMBATH&textBg=false&section=header&reversal=false" />
-    
 <p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Itim&size=40&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Vichhean+Sombath;Computer+Science;"
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=56&fontweight=2400&center=true&pause=500&color=58a6ff&lines=Vichhean+Sombath;Software+Engineer;"
         alt="Typing SVG" />
 </p>
 
+## whoami
+I'm a **Computer Science and Engineering** student who's trying to figure out how things work, and then build things of my own with that knowledge.
+<br>
+
+## ls ~/currently/exploring
+> I'm endlessly focused on:
+
+`Spring Boot` `Flutter` `Docker` `AI Research`
+
+## ls ~/productions
+
+<a href="https://github.com/Vichhean-Sombath/riksa">
+  <img src="assets/riksa.svg" width="100%" height="36" alt="RIKSA">
+</a>
+
+> A bilingual learning platform that helps Cambodian students study more easily. Built for the **ACLEDA GenZ Mobile Competition**.
+
+<a href="https://www.stemcloud.me/">
+  <img src="assets/stemcloud.svg" width="100%" height="36" alt="STEMCLOUD">
+</a>
+
+> StemCloud is a Khmer-first study companion for Cambodian Grade 12 students preparing for the Bac II exam.
+
+<a href="https://github.com/Vichhean-Sombath/jakhok">
+  <img src="assets/jakhok.svg" width="100%" height="36" alt="JAKHOK">
+</a>
+
+> A fast, modern mobile app for Khmer document and text OCR, powered by my fine-tuned vision-language LoRA model [Khmer-PaddleOCR-VL-LoRA](https://huggingface.co/dvdphobia/Khmer-PaddleOCR-VL-LoRA), built on top of unsloth/PaddleOCR-VL.
+
+## ls ~/user/connect
 <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=rezio23">
-        <img src="https://komarev.com/ghpvc/?username=rezio23&label=Profile%20views&color=00FFFF&style=flat-square"
-            alt="jakracode's profile views" />
-    </a>
+  <a href="https://rezio.tech"><img src="https://img.shields.io/badge/PORTFOLIO-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDEyYTkgOSAwIDEgMCAxOCAwYTkgOSAwIDAgMCAtMTggMCIvPjxwYXRoIGQ9Ik0zLjYgOWgxNi44Ii8%2BPHBhdGggZD0iTTMuNiAxNWgxNi44Ii8%2BPHBhdGggZD0iTTExLjUgM2ExNyAxNyAwIDAgMCAwIDE4Ii8%2BPHBhdGggZD0iTTEyLjUgM2ExNyAxNyAwIDAgMSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"></a>
+  <a href="https://t.me/reziotech"><img src="https://img.shields.io/badge/CHANNEL-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel"></a>
+  <a href="https://www.tiktok.com/@halo_twentythree"><img src="https://img.shields.io/badge/TIKTOK-30363d?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.linkedin.com/in/vichheansombath/"><img src="https://img.shields.io/badge/LINKEDIN-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
+  <a href="https://t.me/vichhean_som_bath"><img src="https://img.shields.io/badge/TELEGRAM-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.facebook.com/share/1KLtbRiBmT/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/FACEBOOK-30363d?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-## About Me
-I am **Vichhean Sombath**, a **Computer Science and Engineering** student at ACLEDA University of Business, also enrolled in the **Department of English** at the Institute of Foreign Languages (RUPP). I lead a Web Development internship team at ACLEDA, working with ASP.NET MVC, and I am passionate about **Software Development** with a focus on Flutter mobile development.
-<br>
-
-
-## Tech Stack & Tools
-<table>
-    <tr>
-        <td valign="top" width="33%">
-            <strong>Frontend / Mobile</strong><br />
-            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-            <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
-        </td>
-        <td valign="top" width="33%">
-            <strong>Backend</strong><br />
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" />
-            <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat" />
-        </td>
-        <td valign="top" width="33%">
-            <strong>Database / Other</strong><br />
-            <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
-            <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=mssqlserver&logoColor=white" />
-        </td>
-    </tr>
-</table>
-<br>
-
-## GitHub Analytics
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vichhean-Sombath&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-        height="170" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vichhean-Sombath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-        height="170" />
-</p>
-<br>
-
-## Connect with me
-<p align="left">
-    <a href="https://www.facebook.com/v.bathhh"><img
-            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-    <a href="vichheansombath@gmail.com"><img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.threads.com/@r3zioo?igshid=NTc4MTIwNjQ2YQ=="><img
-            src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
+  <i>"If you can’t do great things, do small things in a great way."</i><br>
+  — Napoleon Hill —
 </p>
