@@ -49,7 +49,7 @@ I'm a **Computer Science and Engineering** student who's trying to figure out ho
 </a>
 
 
-> A fast, modern mobile app for Khmer document and text OCR, powered by my fine-tuned vision-language LoRA model Khmer-PaddleOCR-VL-LoRA(https://huggingface.co/dvdphobia/Khmer-PaddleOCR-VL-LoRA), built on top of unsloth/PaddleOCR-VL.
+> A fast, modern mobile app for Khmer document and text OCR, powered by my fine-tuned vision-language LoRA model Khmer-PaddleOCR-VL-LoRA, built on top of unsloth/PaddleOCR-VL.
 
 
 ## `ls ~/user/connect`
