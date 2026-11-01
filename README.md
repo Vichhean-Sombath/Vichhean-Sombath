@@ -1,18 +1,19 @@
-<p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=56&fontweight=2400&center=true&pause=500&color=58a6ff&lines=Vichhean+Sombath;Software+Engineer;"
-        alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&weight=600&center=true&vCenter=true&pause=500&color=ffffff&width=700&height=80&lines=Vichhean+Sombath;Software+Engineer" alt="Typing SVG" />
 </p>
 
-## whoami
+## `whoami`
 I'm a **Computer Science and Engineering** student who's trying to figure out how things work, and then build things of my own with that knowledge.
 <br>
 
-## ls ~/currently/exploring
-> I'm endlessly focused on:
+## `ls ~/currently/exploring`
 
-`Spring Boot` `Flutter` `Docker` `AI Research`
+<p align="center">
+  <i>I'm endlessly focused on:</i><br><br>
+  <code>Spring Boot</code> <code>Flutter</code> <code>Docker</code> <code>AI Research</code>
+</p>
 
-## ls ~/productions
+## `ls ~/productions`
 
 <a href="https://github.com/Vichhean-Sombath/riksa">
   <img src="assets/riksa.svg" width="100%" height="36" alt="RIKSA">
@@ -20,11 +21,15 @@ I'm a **Computer Science and Engineering** student who's trying to figure out ho
 
 > A bilingual learning platform that helps Cambodian students study more easily. Built for the **ACLEDA GenZ Mobile Competition**.
 
+---
+
 <a href="https://www.stemcloud.me/">
   <img src="assets/stemcloud.svg" width="100%" height="36" alt="STEMCLOUD">
 </a>
 
 > StemCloud is a Khmer-first study companion for Cambodian Grade 12 students preparing for the Bac II exam.
+
+---
 
 <a href="https://github.com/Vichhean-Sombath/jakhok">
   <img src="assets/jakhok.svg" width="100%" height="36" alt="JAKHOK">
@@ -32,7 +37,8 @@ I'm a **Computer Science and Engineering** student who's trying to figure out ho
 
 > A fast, modern mobile app for Khmer document and text OCR, powered by my fine-tuned vision-language LoRA model [Khmer-PaddleOCR-VL-LoRA](https://huggingface.co/dvdphobia/Khmer-PaddleOCR-VL-LoRA), built on top of unsloth/PaddleOCR-VL.
 
-## ls ~/user/connect
+## `ls ~/user/connect`
+
 <p align="center">
   <a href="https://rezio.tech"><img src="https://img.shields.io/badge/PORTFOLIO-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDEyYTkgOSAwIDEgMCAxOCAwYTkgOSAwIDAgMCAtMTggMCIvPjxwYXRoIGQ9Ik0zLjYgOWgxNi44Ii8%2BPHBhdGggZD0iTTMuNiAxNWgxNi44Ii8%2BPHBhdGggZD0iTTExLjUgM2ExNyAxNyAwIDAgMCAwIDE4Ii8%2BPHBhdGggZD0iTTEyLjUgM2ExNyAxNyAwIDAgMSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"></a>
   <a href="https://t.me/reziotech"><img src="https://img.shields.io/badge/CHANNEL-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel"></a>
@@ -42,7 +48,9 @@ I'm a **Computer Science and Engineering** student who's trying to figure out ho
   <a href="https://www.facebook.com/share/1KLtbRiBmT/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/FACEBOOK-30363d?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
+---
+
 <p align="center">
-  <i>"If you can’t do great things, do small things in a great way."</i><br>
+  <i>"If you can't do great things, do small things in a great way."</i><br>
   — Napoleon Hill —
 </p>
